@@ -76,5 +76,5 @@ def get_grade(score):
 test_scores = [95, 85, 75, 65, 55]
 for score in test_scores:
     grade = get_grade(score)
-    print("Score:", score, "")
+    print("Score:", score, "grade")
     
